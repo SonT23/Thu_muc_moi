@@ -3,3 +3,6 @@ alo
 #git sẽ ko theo dõi thư mục alo
 *.log
 #git sẽ ko theo dõi các file có đuôi .log
+#mình muốn bỏ qua abc.xyz những vẫn giữ lại file.xyz
+/*.xyz 
+#sẽ chỉ bỏ qua các file.xyz ở trong git repo gốc
