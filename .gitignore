@@ -1,0 +1,5 @@
+#heheheeeh day la comment ko co tac dung gi ca
+alo
+#git sẽ ko theo dõi thư mục alo
+*.log
+#git sẽ ko theo dõi các file có đuôi .log
