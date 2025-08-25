@@ -5,4 +5,8 @@ alo
 #git sẽ ko theo dõi các file có đuôi .log
 #mình muốn bỏ qua abc.xyz những vẫn giữ lại file.xyz
 /*.xyz 
+# bỏ quay file .xyz nằm cùng với thư mục ẩn .git
 #sẽ chỉ bỏ qua các file.xyz ở trong git repo gốc
+#bỏ qua file txt nằm trong 1 folder bất kỳ
+#path seperator ở ubuntu là / còn window là // hoặc \ những vì làm việc với git nên ta vẫn sử dụng / và giờ ta chỉ cần điền địa chỉ của file muốn ignore
+second_folder/abc.txt
