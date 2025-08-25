@@ -10,3 +10,4 @@ alo
 #bỏ qua file txt nằm trong 1 folder bất kỳ
 #path seperator ở ubuntu là / còn window là // hoặc \ những vì làm việc với git nên ta vẫn sử dụng / và giờ ta chỉ cần điền địa chỉ của file muốn ignore
 second_folder/abc.txt
+second_folder\file.txt
